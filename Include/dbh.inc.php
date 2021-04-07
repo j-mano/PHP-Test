@@ -1,3 +1,4 @@
+<!-- Database conection -->
 <?php
 
 $serverName = "localhost";

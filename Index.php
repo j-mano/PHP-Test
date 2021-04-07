@@ -1,5 +1,4 @@
-
-
+<!-- index file of the webbsite -->
 <!DOCTYPE html>
 <html>
     <head>
